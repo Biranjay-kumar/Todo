@@ -10,7 +10,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: 'https://todo-g55k.onrender.com/api/v1/task',
+      url: 'http://localhost:7000/api/v1/task',
       description: 'Local development server',
     },
   ],
